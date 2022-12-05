@@ -6,6 +6,7 @@ from pptx import Presentation
 from docx import Document
 from io import BytesIO, StringIO
 
+
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = ['pptx']
 
